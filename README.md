@@ -1,1 +1,1 @@
-https://pixeld.netlify.app/
+https://pixeldeep.netlify.app/
